@@ -1,5 +1,4 @@
-# PRODIGY_DS_03
-### Welcome to my submission for Task 3 of the Data Science Internship at Prodigy Infotech. In this task, I have built a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.
+### I have built a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.
 ## Tools And Libraries Used:
 ### -> jupyter notebook
 ### -> pandas
